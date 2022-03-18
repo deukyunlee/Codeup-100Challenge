@@ -7,5 +7,5 @@
 
 import sys
 
-s = input()
+s = sys.stdin.readline().rstrip()
 print(s)
