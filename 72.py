@@ -7,4 +7,3 @@ n = int(sys.stdin.readline().rstrip())
 while n>0:
     print(n)
     n-=1
-
